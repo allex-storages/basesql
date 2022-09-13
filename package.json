@@ -1,0 +1,25 @@
+{
+  "name": "allex_basesqlstorage",
+  "version": "1.0.0",
+  "description": "Base SQL AllexJS storage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/allex-storages/basesql.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "base",
+    "sql",
+    "storage"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allex-storages/basesql/issues"
+  },
+  "homepage": "https://github.com/allex-storages/basesql#readme"
+}
